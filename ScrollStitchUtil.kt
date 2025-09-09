@@ -1,14 +1,7 @@
-package util
+// Replaced by Java implementation. Keeping file placeholder to avoid build issues if referenced.
+package placeholder
 
-import android.graphics.Bitmap
-import android.graphics.Canvas
-import android.graphics.Color
-import android.graphics.Paint
-import kotlin.math.abs
-import kotlin.math.max
-import kotlin.math.min
-import kotlin.math.pow
-import kotlin.math.roundToInt
+class ScrollStitchUtilKtPlaceholder
 
 /**
  * ScrollStitchUtil
